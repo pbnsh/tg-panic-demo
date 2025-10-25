@@ -1,0 +1,8 @@
+.*
+!/.gitignore
+*.sw?
+*.svg
+.idea
+.DS_Store
+*.py[cod]
+*.log
